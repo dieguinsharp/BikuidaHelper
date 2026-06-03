@@ -1,0 +1,14 @@
+{
+  "LocalPlayerPawnOffset": 2316,
+  "PlayerNameOffset": 1780,
+  "EntityListOffset": 38692240,
+  "HealthOffset": 844,
+  "TeamOffset": 1003,
+  "PositionOffset": 5008,
+  "LocalPlayerPawn": 36963992,
+  "MatrixOffset": 36985648,
+  "GameSceneNodeOffset": 816,
+  "SkeletonInstanceOffset": 128,
+  "ModelStateOffset": 336,
+  "LifeStateOffset": 852
+}
